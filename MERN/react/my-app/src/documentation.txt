@@ -1,0 +1,20 @@
+1. Difference between components and function
+->components are the functions whose first letter are capital
+->component are called just like tag
+
+
+
+2. we can store and return tag
+3. while passing data,
+    if data is other than a string, always use curly braces ie.{}
+
+
+4. anything which is return are printed in the web browser
+5. 
+
+
+
+
+
+
+
